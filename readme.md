@@ -4,7 +4,9 @@ ASSEMBLY LANGUAGE PROGRAMMING
 
 2. Write a program for 32-bit BCD addition and subtraction
 
-3. Write a program for Linear search and binary search. 4. Write a program to add and subtract two arrays
+3. Write a program for Linear search and binary search.
+
+4. Write a program to add and subtract two arrays
 
 5. Write a program for binary to ascii conversion
 
